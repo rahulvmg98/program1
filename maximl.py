@@ -10,4 +10,6 @@ for i in range(len(String)):
         result=String[i]
         maxi.append(count)
         count=1
+maxi.append(count)
 print(max(maxi))
+
